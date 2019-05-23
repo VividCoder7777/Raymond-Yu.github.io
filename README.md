@@ -2,7 +2,9 @@
   <header>
     <h1>Greetings!</h1>   
   </header>
-  <p>My name is Raymond Yu and this website showcases my personal projects that I've worked on.</p>
+  <p>My name is Raymond Yu and this web page showcases my personal projects that I've worked on.</p>
+  <p>Note, all projects are hosted on Heroku so it may take awhile to load the website.</p>
+  <p>If there any questions feel free to contact me at through <a href="mailto:raymond.yu171@gmail.com">Email</a> or </p>
 </section>
 
 <section>
