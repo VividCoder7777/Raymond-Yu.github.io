@@ -7,9 +7,10 @@
 
 <section>
   <header> 
-    <h3></h3>
+    <h3>Walmart Search</h3>
   </header>
-  <p></p>
+  <p>This is a simple progressive web application which means that it has offline capabilities.</p>
+  <p>The applcation itself is simply written using React and Node.</p>
 </section>
 
 
