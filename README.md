@@ -33,7 +33,7 @@
     <li>Responsive, built mobile first</li>
     <li>Has authorization using JSON webtokens</li>
     <li>Authorization uses both front end and back end validation</li>
-    <li>Passwords are has hashed</p>
+    <li>Passwords are has hashed</li>
   </ul>
 </section>
 
