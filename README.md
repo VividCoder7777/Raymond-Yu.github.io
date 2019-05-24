@@ -39,15 +39,25 @@
 
 <section>
   <header> 
-    <h3></h3>
+    <h2>Pokemon Card Search</h2>
   </header>
-  <p></p>
+  <p><a href='https://pokemon-tcg-pokedex.herokuapp.com/'>Go To Site</a></p>
+  <p>This applicaiton lets you search for Pokemon cards based on names or pokemon types</p>
+  <ul>
+    <li>Built using Java Spring framework</li>
+    <li>Front end is built using bootstrap</li>
+    <li>Uses Jquery to change results</li>
+  </ul>
 </section>
-
 
 <section>
   <header> 
-    <h3></h3>
+    <h2>Task List</h2>
   </header>
-  <p></p>
+  <p>This application allow users to create their schedule for the day.</p>
+  <ul>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
 </section>
