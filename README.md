@@ -4,7 +4,7 @@
   </header>
   <p>My name is Raymond Yu and this web page showcases my personal projects.</p>
   <p><b>Note</b>, all projects are hosted on Heroku so it may take awhile to load the website.</p>
-  <p>If needed, feel free to contact me at through <a href="mailto:raymond.yu171@gmail.com"><b>email</b></a> or at </b>647-863-4130</b>.</p>
+  <p>If needed, feel free to contact me at through <a href="mailto:raymond.yu171@gmail.com"><b>email</b></a> or at <b>647-863-4130</b>.</p>
 </section>
 
 <section>
@@ -23,9 +23,15 @@
 
 <section>
   <header> 
-    <h3></h3>
+    <h2>Store Front</h2>
   </header>
-  <p></p>
+  <p>This application is built using React, Node and Sequelize ORM.</p>
+  <p>Features:</p>
+  <ul>
+    <li>Responsive, built mobile first</li>
+    <li></li>
+    <li></li>
+  </ul>
 </section>
 
 
