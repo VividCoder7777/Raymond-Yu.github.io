@@ -26,9 +26,10 @@
     <h2>Store Front</h2>
   </header>
   <p><a href='https://vonlegacy.herokuapp.com/'>Go To Site</a></p>
-  <p>This application is built using React, Node and Sequelize ORM.</p>
+  <p>This application is built to look like a store front.</p>
   <p>Features:</p>
   <ul>
+    <li>Built using React, PostgreSQL, Node and Sequelize ORM</li>
     <li>Responsive, built mobile first</li>
     <li>Has authorization using JSON webtokens</li>
     <li>Authorization uses both front end and back end validation</li>
@@ -54,10 +55,11 @@
   <header> 
     <h2>Task List</h2>
   </header>
+  <p><a href='https://tasklist7777.herokuapp.com/'>Go To Site</a></p>
   <p>This application allow users to create their schedule for the day.</p>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Built using React, Node, PostgreSQL and Sequelize ORM</li>
+    <li>Using OAuth to authenticate users</li>
+    <li>Users can export their daily tasks to an excel spreadsheet</li>
   </ul>
 </section>
