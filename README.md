@@ -4,7 +4,7 @@
   </header>
   <p>My name is Raymond Yu and this web page showcases my personal projects.</p>
   <p><b>Note</b>, all projects are hosted on Heroku so it may take awhile to load the website.</p>
-  <p>If needed, feel free to contact me at through <a href="mailto:raymond.yu171@gmail.com"><b>email</b></a> or at <b>647-863-4130</b>.</p>
+  <p>Contact Information: <a href="mailto:raymond.yu171@gmail.com"><b>Email</b></a> or at <b>647-863-4130</b>.</p>
 </section>
 
 <section>
