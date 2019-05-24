@@ -43,7 +43,7 @@
     <h2>Pokemon Card Search</h2>
   </header>
   <p><a href='https://pokemon-tcg-pokedex.herokuapp.com/'>Go To Site</a></p>
-  <p>This applicaiton lets you search for Pokemon cards based on names or pokemon types</p>
+  <p>This applicaiton lets you search for Pokemon cards based on names or pokemon types.</p>
   <ul>
     <li>Built using Java Spring framework</li>
     <li>Front end is built using bootstrap</li>
